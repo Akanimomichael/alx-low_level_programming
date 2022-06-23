@@ -1,1 +1,2 @@
-my read me
+#!/bin/bash
+0x00. C - Hello, World
